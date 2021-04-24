@@ -1,0 +1,46 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 8.07px;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <line class="cls-1" x1="122.34" y1="46.95" x2="134.42" y2="46.95"/>
+      <line class="cls-1" x1="99.45" y1="46.95" x2="108.41" y2="46.95"/>
+      <line class="cls-1" x1="42.91" y1="46.95" x2="87.7" y2="46.95"/>
+    </g>
+    <g>
+      <line class="cls-1" x1="155.01" y1="98.09" x2="169.41" y2="98.09"/>
+      <line class="cls-1" x1="127.75" y1="98.09" x2="138.42" y2="98.09"/>
+      <line class="cls-1" x1="60.41" y1="98.09" x2="113.75" y2="98.09"/>
+    </g>
+    <line class="cls-1" x1="98.84" y1="146.53" x2="177.48" y2="146.53"/>
+    <line class="cls-1" x1="79.25" y1="146.53" x2="84.63" y2="146.53"/>
+    <line class="cls-1" x1="59.06" y1="146.53" x2="65.57" y2="146.53"/>
+    <line class="cls-1" x1="228.19" y1="203.05" x2="234" y2="203.05"/>
+    <line class="cls-1" x1="213.81" y1="203.05" x2="216.51" y2="203.05"/>
+    <line class="cls-1" x1="129.04" y1="203.05" x2="197.67" y2="203.05"/>
+    <g>
+      <circle class="cls-1" cx="17.35" cy="110.2" r="1.35"/>
+      <circle class="cls-1" cx="30.8" cy="115.58" r="1.35"/>
+      <circle class="cls-1" cx="44.26" cy="110.2" r="1.35"/>
+    </g>
+    <g>
+      <circle class="cls-1" cx="41.57" cy="193.63" r="1.35"/>
+      <circle class="cls-1" cx="55.02" cy="199.01" r="1.35"/>
+      <circle class="cls-1" cx="68.48" cy="193.63" r="1.35"/>
+    </g>
+    <g>
+      <circle class="cls-1" cx="205.74" cy="88.67" r="1.35"/>
+      <circle class="cls-1" cx="219.2" cy="94.05" r="1.35"/>
+      <circle class="cls-1" cx="232.65" cy="88.67" r="1.35"/>
+    </g>
+  </g>
+</svg>
