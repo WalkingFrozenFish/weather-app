@@ -1,4 +1,4 @@
-# Project - Weather-app
+# Project - Weather app
 ***
 ## Описание проекта
 Проект представляет из себя приложения для получения текущего прогноза погоды. Используется api сайта openweathermap.
@@ -14,4 +14,4 @@ script.js       | Файл скрипта главный
 images          | Изображения в формате svg
 
 ## Скриншот проекта
-![Скриншот](#)
+![Скриншот](https://github.com/WalkingFrozenFish/weather-app/blob/main/img/weather.jpg)
